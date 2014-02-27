@@ -124,3 +124,6 @@
 [submodule "htpasswd"]
 	path = htpasswd
 	url = https://github.com/Youscribe/htpasswd-cookbook.git
+[submodule "chef-lumberjack"]
+	path = chef-lumberjack
+	url = https://github.com/hectcastro/chef-lumberjack.git
