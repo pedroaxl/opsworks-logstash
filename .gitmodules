@@ -127,3 +127,6 @@
 [submodule "chef-lumberjack"]
 	path = chef-lumberjack
 	url = https://github.com/hectcastro/chef-lumberjack.git
+[submodule "lumberjack"]
+	path = lumberjack
+	url = https://github.com/hectcastro/chef-lumberjack.git
